@@ -28,10 +28,10 @@ The PowerShell process terminates shortly after execution.
 ## Screenshots
 
 ### Event ID 1
-![Event ID 1](screenshots/event_id_1)
+![Event ID 1](screenshots/event_id_1.webp)
 
 ### Command Line
-![Command Line](screenshots/event_id_1)
+![Command Line](screenshots/event_id_1.webp)
 
 
 ## Tools Used
